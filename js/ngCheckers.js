@@ -58,7 +58,7 @@ angular.module('ngCheckers', [])
                 console.log('AI-Board after move', $scope.opponent.board)
                 await resetChoices()
             }
-        }, 5000)
+        }, 1000)
     }
     $scope.newGame(); //Funktion wird aufgerufen und das Spielfeld wird erstellt
 
