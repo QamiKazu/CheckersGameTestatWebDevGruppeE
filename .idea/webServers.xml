@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d440ee32-1625-4a9e-a1b0-269f9e4d81e8" name="webdev">
+        <fileTransfer rootFolder="/home/speschke" accessType="SFTP" host="jh-webdev1.netlab.hof-university.de" port="22" sshConfigId="33373463-8d37-4de5-96dd-c58aacc71b34" sshConfig="speschke@jh-webdev1.netlab.hof-university.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
